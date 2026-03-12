@@ -37,5 +37,11 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/tu-id)
 
 ---
+### 🛰️ Proyecto Destacado: [API Sentinel Pro](https://github.com/sebaubago/api-sentinel-pro)
+> Sistema automatizado de monitoreo de servicios críticos desarrollado en Ruby.
+
+| Status | Stack | Última Actualización |
+| :--- | :--- | :--- |
+| ![Health Check](https://github.com/sebaubago/api-sentinel-pro/actions/workflows/monitor.yml/badge.svg) | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby) | ![GitHub last commit](https://img.shields.io/github/last-commit/sebaubago/api-sentinel-pro?style=flat-square) |
 
 > "Transformando datos en inteligencia para la seguridad pública." 🇨🇱
