@@ -22,8 +22,12 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebaubago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaubago&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebaubago&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaubago&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaubago&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
